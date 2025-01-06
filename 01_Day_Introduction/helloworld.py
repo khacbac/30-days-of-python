@@ -18,4 +18,4 @@ print(type('Asabeneh')) # string
 print(type([1,2,3])) # list
 print(type({'name':'Asabeneh'})) # dictionary
 print(type({9.8,3.14,2.7})) # set
-print(type((9.8,3.14,2.7)))
+print(type((9.8,3.14,2.7))) # tuple
